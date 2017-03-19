@@ -1,0 +1,20 @@
+---
+layout: project
+title: Chine
+images:
+  - title: "Vélos"
+    url: /images/projects/CHINE/1.jpg
+  - title: "Vélos"
+    url: /images/projects/CHINE/2.jpg
+  - title: "Sol Pleureur"
+    url: /images/projects/CHINE/3.jpg
+  - title: "Cité Interdite"
+    url: /images/projects/CHINE/4.jpg
+  - title: "Pousse-pousses"
+    url: /images/projects/CHINE/5.jpg
+  - title: "Parapluie"
+    url: /images/projects/CHINE/6.jpg
+project_date: Avril 2015
+type: PERSONNEL
+---
+La Chine c'est vraiment trop wahou !
