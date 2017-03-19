@@ -6,7 +6,8 @@ layout: default
 
 <div class="items">
 
-  {% for project in site.projects %}
+  {% assign projects = (site.projects | sort: 'date') | reverse %}
+  {% for project in projects %}
   <a href="{{project.url | site.baseurl}}">
     <div class="item" onclick="void(0)">
       <div class="item-mask">

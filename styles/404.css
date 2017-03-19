@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Londrina+Shadow');
+
+#wrapper404 {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+
+#code404 {
+  font-family: "Londrina Shadow", cursive;
+  font-size: 80px;
+  color: #29B6F6;
+}
+
+#img404 img {
+  height: 55vh; 
+}
+
+#msg404 {
+  font-family: "Bangers", cursive;
+}
+
+#msg404 #message {
+  font-size: 65px;
+}
+
+#msg404 #sub-message {
+
+}
+
+#backhomeLink {
+  font-size: 15px;
+  padding-top: 35px;
+  animation: vnr 0.2s infinite linear;
+  animation-delay: 3s; 
+}
+
+@keyframes vnr {
+  0% {
+    transform: rotate(0deg); 
+  } 50% {
+    transform: rotate(10deg);
+  } 100% {
+    transform: rotate(0deg);
+  }
+}

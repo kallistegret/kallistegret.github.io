@@ -1,20 +1,9 @@
 ---
-layout: nil
+layout: minimal
 ---
+    
+{% include header.html %}
 
-<html>
-  <head>
-    <title>{{site.title}}</title>
-    <link rel="stylesheet" type="text/css" href="styles/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+{{content}}
 
-  </head>
-
-  <body>
-    {% include header.html %}
-
-    {{content}}
-
-    {% include footer.html %}
-  </body>
-</html>
+{% include footer.html %}
