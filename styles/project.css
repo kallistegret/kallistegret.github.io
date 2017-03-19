@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.top-menu {
+  height: 40px;
+  width: 100vw;
+  background-color: pink;
+}
+
+.top-section {
+  width: calc(100vw - 100px);
+  margin: 30px 50px;
+}
+.top-section .left-image {
+  float: left;
+  width: calc(100% - 100px);
+}
+.top-section .left-image img {
+  height: 40vw;
+  width: 40vw;
+  border: 4px double #eee;
+}
+.top-section .projet-description {
+  float: left;
+  width: calc(100% - 100px);
+  height: auto;
+}
+
+.projet-description .projet-titre {
+  font-family: 'Poiret One', cursive;
+  font-size: 30px;
+}
+.projet-description .projet-titre::first-letter {
+  font-size: 130%;
+}
+.projet-description .date {
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+}
+.projet-description .type-projet {
+  position: relative;
+  font-family: 'Poiret One', cursive;
+  margin-bottom: 30px;
+}
+.projet-description .type-projet::after {
+  height: 2px;
+  width: 50%;
+  content: ';';
+  font-size: 0;
+  position: absolute;
+  top: 30;
+  left: 0;
+  background-color: #eee;
+}
+.projet-description .description {
+  margin-top: 20px;
+}
+.projet-description .description p {
+  text-align: justify;
+}
+
+#photos {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  width: calc(100vw - 100px);
+  height: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.photo {
+  display: flex;
+  height: 100px;
+  margin: 5px;
+  width: 100px;
+  border: 1px solid #eee;
+}
+.photo img {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 700px) {
+  .top-section {
+    display: block;
+    clear: both;
+    width: calc(100vw - 100px);
+  }
+  .top-section .left-image img {
+    width: calc(100vw - 100px);
+    height: calc(100vw - 100px);
+    height: border-box;
+  }
+  .top-section .projet-description {
+    width: calc(100vw - 100px);
+  }
+}
+@media screen and (min-width: 700px) {
+  .top-section {
+    width: calc(100% - 100px);
+  }
+  .top-section .left-image {
+    width: 50%;
+  }
+  .top-section .left-image img {
+    width: 90%;
+  }
+  .top-section .projet-description {
+    width: 50%;
+  }
+}

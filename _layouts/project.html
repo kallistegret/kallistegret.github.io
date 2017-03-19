@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+
+<link href="{{site.baseurl}}/lib/viewer.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{site.baseurl}}/styles/project.css">
+
+<div class="wrapper">
+<!-- Menu bar -->
+<!-- Top section -->
+  <section class="top-section">
+  <!-- Left picture -->
+    <div class="left-image">
+      <img src="{{page.images[0].url}}" alt="{{page.images[0].title}}"/>
+    </div>
+  <!-- Project description -->
+    <div class="projet-description">
+      <div class="projet-titre">{{page.title}}</div>
+      <div class="date">{{page.project_date}}</div>
+      <div class="type-projet">{{page.type}}</div>
+      <div class="description">
+        <p>{{content}}</p>
+
+      </div>
+
+    </div>
+
+
+    <ul id="photos">
+      {% for image in page.images %}
+      <li class="photo"><img src="{{image.url}}" alt="{{image.title}}"/></li>
+      {% endfor %}
+    </ul>
+
+
+
+  </section>
+
+<!-- Project article -->
+</div>
+
+<script src="{{site.baseurl}}/lib/viewer.min.js"></script>
+<script>
+  var viewer = new Viewer(document.getElementById('photos'),{
+    rotatable: false
+  });
+</script>

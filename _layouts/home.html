@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="styles/items.css">
+
+<div class="items">
+
+  {% for project in site.projects %}
+  <a href="{{project.url | site.baseurl}}">
+    <div class="item" onclick="void(0)">
+      <div class="item-mask">
+      </div>
+      <div class="item-infos">
+        <a href="#"><div class="item--title">{{ project.title }}</div></a>
+        <div class="item--date">{{ project.project_date }}</div>
+      </div>
+      <!-- IMAGE -->
+      <img src="{{ project.images[0].url }}" alt="{{project.images[0].title}}"/>
+    </div>
+  </a>
+  {% endfor %}
+</div>

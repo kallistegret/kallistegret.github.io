@@ -1,0 +1,30 @@
+#footer {
+  position: relative;
+  height: 30px;
+  width: 100vw;
+  background-color: pink;
+}
+
+#footer #text {
+  width: 100%;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  position: absolute;
+  bottom: 3px;
+  text-align: center;
+  font-family: 'Annie Use Your Telescope', cursive;
+}
+
+#footer a {
+  text-decoration: underline;
+}
+
+#copyrights {
+  margin-right: 30px;
+}
+
+.heart {
+  color: #64F9FF;
+  font-size: 20px;
+}
