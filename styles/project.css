@@ -36,6 +36,10 @@ body {
   height: auto;
 }
 
+.projet-description {
+  color: black;
+}
+
 .projet-description .projet-titre {
   font-family: 'Poiret One', cursive;
   font-size: 30px;
@@ -67,6 +71,7 @@ body {
 }
 .projet-description .description p {
   text-align: justify;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #photos {
