@@ -31,6 +31,23 @@
   color: #64F9FF;
   font-size: 20px;
 }
+
+@media screen and (max-width: 900px) {
+  #footer #text {
+    font-size: 10px;
+  }
+  .heart {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .author {
+    display: none;
+  }
+
+}
+
 </style>
 
 <div id="footer">
@@ -38,8 +55,10 @@
   <div id="text">
 
     <span id="copyrights">© 2017-2018 KALLISTÉ EGRET ALL RIGHTS RESERVED</span>
+    <span class="author">
     <span id="author">Made with <span class="heart">❤</span> by
     <a href="https://benjaminafonso.me">Ben. AFONSO</a>
+    </span>
     </span>
   </div>
 
