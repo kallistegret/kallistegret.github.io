@@ -25,6 +25,6 @@ images:
   - title: "Two Of You"
     url: /images/JourDePluie/11.jpg
 project_date: 4 Août 2014
-type:
+type: Photographie
 ---
 Photoshoot réalisé un jour de pluie, en été. 
