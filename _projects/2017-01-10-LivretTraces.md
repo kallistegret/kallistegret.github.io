@@ -24,7 +24,7 @@ images:
     url: /images/projects/livrettraces/10.jpg
   - tilte: "Page11"
     url: /images/projects/livrettraces/11.jpg
-project_date: Janvier 2017
+project_date: Décembre 2016 - Janvier 2017
 type: Edition
 ---
 Projet d'édition d'un livret de travaux, qui fait suite au travail de création graphique "Traces".
