@@ -3,27 +3,27 @@ layout: projects
 title: Livret Traces
 images:
   - tilte: "Page1"
-    url: /images/projects/LivretTraces/1.zip
+    url: /images/LivretTraces/1.zip
   - tilte: "Page2"
-    url: /images/projects/LivretTraces/2.zip
+    url: /images/LivretTraces/2.zip
   - tilte: "Page3"
-    url: /images/projects/LivretTraces/3.zip
+    url: /images/LivretTraces/3.zip
   - tilte: "Page4"
-    url: /images/projects/LivretTraces/4.zip
+    url: /images/LivretTraces/4.zip
   - tilte: "Page5"
-    url: /images/projects/LivretTraces/5.zip
+    url: /images/LivretTraces/5.zip
   - tilte: "Page6"
-    url: /images/projects/LivretTraces/6.zip
+    url: /images/LivretTraces/6.zip
   - tilte: "Page7"
-    url: /images/projects/LivretTraces/7.zip
+    url: /images/LivretTraces/7.zip
   - tilte: "Page8"
-    url: /images/projects/LivretTraces/8.zip
+    url: /images/LivretTraces/8.zip
   - tilte: "Page9"
-    url: /images/projects/LivretTraces/9.zip
+    url: /images/LivretTraces/9.zip
   - tilte: "Page10"
-    url: /images/projects/LivretTraces/10.zip
+    url: /images/LivretTraces/10.zip
   - tilte: "Page11"
-    url: /images/projects/LivretTraces/11.zip
+    url: /images/LivretTraces/11.zip
 project_date: Décembre 2016 - Janvier 2017
 type: Edition
 ---
