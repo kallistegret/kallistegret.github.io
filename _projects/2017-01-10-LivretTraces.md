@@ -5,7 +5,7 @@ images:
   - tilte: "Page1"
     url: /images/projects/LivretTraces/1.zip
   - tilte: "Page2"
-    url: /images/projects/livrettraces/2.jpg
+    url: /images/projects/LivretTraces/2.jpg
   - tilte: "Page3"
     url: /images/projects/livrettraces/3.jpg
   - tilte: "Page4"
