@@ -3,7 +3,7 @@ layout: projects
 title: Livret Traces
 images:
   - tilte: "Page1"
-    url: /images/projects/livrettraces/1.jpg
+    url: /images/projects/LivretTraces/1.zip
   - tilte: "Page2"
     url: /images/projects/livrettraces/2.jpg
   - tilte: "Page3"
