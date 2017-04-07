@@ -19,7 +19,7 @@ images:
 project_date: Août 2015
 type: Photographie
 ---
-Photoshoot sur en forêt.
+Photoshoot en forêt.
 Thème de la magie et des légendes.
 
 Modèle : Mathilde P.
