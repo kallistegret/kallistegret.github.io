@@ -1,6 +1,9 @@
 ---
 layout: project
 title: Jour de Pluie
+miniatures:
+  - title: "Foot"
+    url: /images/JourDePluie/1.jpg
 images:
   - title: "Foot"
     url: /images/JourDePluie/1.jpg

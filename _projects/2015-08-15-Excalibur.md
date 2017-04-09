@@ -1,6 +1,9 @@
 ---
 layout: projects
 title: Excalibur
+miniatures:
+  - title: "The Sleeping Beauty"
+    url: /images/projects/Excalibur/1.jpg
 images:
   - title: "The Sleeping Beauty"
     url: /images/projects/Excalibur/1.jpg

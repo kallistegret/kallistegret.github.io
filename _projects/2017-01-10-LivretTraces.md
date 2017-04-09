@@ -1,6 +1,9 @@
 ---
 layout: projects
 title: Livret Traces
+miniatures:
+  - tilte: "Page1"
+    url: /images/LivretTraces/1.zip
 images:
   - tilte: "Page1"
     url: /images/LivretTraces/1.zip
