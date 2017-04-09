@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Excalibur
 miniatures:
   - title: "The Sleeping Beauty"
