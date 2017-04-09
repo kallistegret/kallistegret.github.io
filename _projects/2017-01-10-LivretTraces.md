@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Livret Traces
 miniatures:
   - tilte: "Page1"
