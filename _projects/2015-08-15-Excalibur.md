@@ -19,6 +19,8 @@ images:
     url: /images/projects/Excalibur/6.jpg
   - title: "Utopie"
     url: /images/projects/Excalibur/7.jpg
+  - title: "Knife"
+    url: /images/projects/Excalibur/8.jpg
 project_date: Août 2015
 type: Photographie
 ---
