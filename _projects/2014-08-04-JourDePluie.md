@@ -3,7 +3,7 @@ layout: project
 title: Jour de Pluie
 miniatures:
   - title: "Foot"
-    url: /images/projects/JourDePluie/1.jpg
+    url: /images/projects/JourDePluie/1_min.jpg
 images:
   - title: "Foot"
     url: /images/projects/JourDePluie/1.jpg

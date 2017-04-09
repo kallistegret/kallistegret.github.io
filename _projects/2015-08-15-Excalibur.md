@@ -3,7 +3,7 @@ layout: projects
 title: Excalibur
 miniatures:
   - title: "The Sleeping Beauty"
-    url: /images/projects/Excalibur/1.jpg
+    url: /images/projects/Excalibur/1_min.jpg
 images:
   - title: "The Sleeping Beauty"
     url: /images/projects/Excalibur/1.jpg
@@ -26,9 +26,3 @@ Photoshoot en forêt.
 Thème de la magie et des légendes.
 
 Modèle : Mathilde P.
-
-  
-  
-  
-  
-  
