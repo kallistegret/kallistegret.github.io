@@ -45,3 +45,5 @@ Pour réaliser ce projet, nous avons durant plusieur semaines, tous travaillé s
 Notre travail se basait sur un cahier des charges ainsi qu'un recueil d'interviews et de photographies, transmis par l'association en début de projet.
 
 Voici trois exemples de mise en page sur lesquels j'ai travaillé, les idées principales sont développées dans la galerie.
+
+<a href="http://www.amis-musees-nimes.org/"> Site de l'AAMAC </a>
