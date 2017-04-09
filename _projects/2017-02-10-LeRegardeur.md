@@ -28,9 +28,9 @@ images:
   - title: "Page de Présentation - Mise en Page 3"
     url: /images/projects/LeRegardeur/11.jpg
   - title: "Mise en Page 3 - Page 03"
-    url: /images/projects/LeRegardeur/10.jpg
+    url: /images/projects/LeRegardeur/12.jpg
   - title: "Mise en Page 3 - Page 04"
-    url: /images/projects/LeRegardeur/10.jpg
+    url: /images/projects/LeRegardeur/13.jpg
 project_date: Janvier - Mars 2017
 type: Edition
 ---
