@@ -28,9 +28,9 @@ images:
   - title: "Page de Présentation - Mise en Page 3"
     url: /images/projects/LeRegardeur/11.jpg
   - title: "Mise en Page 3 - Page 03"
-    url: /images/projects/LeRegardeur/10.jpg
+    url: /images/projects/LeRegardeur/12.jpg
   - title: "Mise en Page 3 - Page 04"
-    url: /images/projects/LeRegardeur/10.jpg
+    url: /images/projects/LeRegardeur/13.jpg
 project_date: Janvier - Mars 2017
 type: Edition
 ---
@@ -46,4 +46,4 @@ Notre travail se basait sur un cahier des charges ainsi qu'un recueil d'intervie
 
 Voici trois exemples de mise en page sur lesquels j'ai travaillé, les idées principales sont développées dans la galerie.
 
-<a href="http://www.amis-musees-nimes.org/"> Site de l'AAMAC </a>
+<u> <a href="http://www.amis-musees-nimes.org/"> Site de l'AAMAC </a> </u>
