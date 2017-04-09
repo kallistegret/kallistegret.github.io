@@ -1,43 +1,34 @@
 ---
-layout: projects
-title: Livret Traces
+layout: project
+title: "Livret Traces"
 miniatures:
-  - tilte: "Page1"
-    url: /images/LivretTraces/1.zip
+  - title: "Page1"
+    url: /images/projects/LivretTraces/5_min.jpg
 images:
-  - tilte: "Page1"
-    url: /images/LivretTraces/1.zip
-  - tilte: "Page2"
-    url: /images/LivretTraces/2.zip
-  - tilte: "Page3"
-    url: /images/LivretTraces/3.zip
-  - tilte: "Page4"
-    url: /images/LivretTraces/4.zip
-  - tilte: "Page5"
-    url: /images/LivretTraces/5.zip
-  - tilte: "Page6"
-    url: /images/LivretTraces/6.zip
-  - tilte: "Page7"
-    url: /images/LivretTraces/7.zip
-  - tilte: "Page8"
-    url: /images/LivretTraces/8.zip
-  - tilte: "Page9"
-    url: /images/LivretTraces/9.zip
-  - tilte: "Page10"
-    url: /images/LivretTraces/10.zip
-  - tilte: "Page11"
-    url: /images/LivretTraces/11.zip
+  - title: "Page1"
+    url: /images/projects/LivretTraces/1.jpg
+  - title: "Page2"
+    url: /images/projects/LivretTraces/2.jpg
+  - title: "Page3"
+    url: /images/projects/LivretTraces/3.jpg
+  - title: "Page4"
+    url: /images/projects/LivretTraces/4.jpg
+  - title: "Page5"
+    url: /images/projects/LivretTraces/5.jpg
+  - title: "Page6"
+    url: /images/projects/LivretTraces/6.jpg
+  - title: "Page7"
+    url: /images/projects/LivretTraces/7.jpg
+  - title: "Page8"
+    url: /images/projects/LivretTraces/8.jpg
+  - title: "Page9"
+    url: /images/projects/LivretTraces/9.jpg
+  - title: "Page10"
+    url: /images/projects/LivretTraces/10.jpg
+  - title: "Page11"
+    url: /images/projects/LivretTraces/11.jpg
 project_date: Décembre 2016 - Janvier 2017
 type: Edition
 ---
 Projet d'édition d'un livret de travaux, qui fait suite au travail de création graphique "Traces".
 Travail de retouche sur Photoshop et de mise en page sur Indesign.
-  
-  
-  
-  
-  
-  
-  
-  
-  
