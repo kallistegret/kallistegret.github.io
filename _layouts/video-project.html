@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+
+<link href="/lib/viewer.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/styles/project.css">
+<link rel="stylesheet" href="/styles/video-project.css">
+
+<div class="wrapper">
+<!-- Menu bar -->
+<!-- Top section -->
+  <section class="top-section">
+  <!-- Left picture -->
+  <!--<video class="big-video" src="{{page.video.source.url}}" autoplay controls poster="{{page.video.preview.url}}" muted>-->
+    <!--Votre navigateur ne permet pas de lire les vidéos.-->
+  <!--</video>-->
+  <div class="video-wrapper">
+    <iframe class="big-video" width="560" height="349" src="http://www.youtube.com/embed/{{page.video.source.youtubeId}}?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+
+  </div>
+  
+  <div class="content">
+    <div class="title">{{page.title}}</div>
+    <div class="date">{{page.project_date}}</div>
+    <p>{{content}}</p>
+  </div>
+
+  <ul id="photos">
+    {% for image in page.images %}
+    <li class="photo"><img src="{{image.url}}" alt="{{image.title}}"/></li>
+    {% endfor %}
+  </ul>
+
+
+
+  </section>
+
+<!-- Project article -->
+</div>
+
+<script src="{{site.baseurl}}/lib/viewer.min.js"></script>
+<script>
+  var viewer = new Viewer(document.getElementById('photos'),{
+    rotatable: false
+  });
+</script>

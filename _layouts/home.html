@@ -14,8 +14,12 @@ layout: default
       <div class="item-mask">
       </div>
       <div class="item-infos">
-        <a href="#"><div class="item--title">{{ project.title }}</div></a>
+        <a href="{{project.url | site.baseurl}}"><div class="item--title">{{ project.title }}</div></a>
         <div class="item--date">{{ project.project_date }}</div>
+        {% if project.layout == "video-project" %}
+        <a href="{{project.url | site.baseurl}}"> <img class="play-icon" src="/images/assets/play-icon.png"/> </a>
+        {% endif %}
+
       </div>
       <!-- IMAGE -->
       <img src="{{ project.miniatures[0].url }}" alt="{{project.miniatures[0].title}}"/>

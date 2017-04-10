@@ -84,6 +84,13 @@
   opacity: 0;
 }
 
+.item .item-infos .play-icon {
+  width: 20%;
+  height: auto;
+  margin-top: 10%;
+  opacity: 0.6;
+}
+
 .item:hover .item-infos .item--date, .item:active .item-infos .item--date {
   opacity: 1;
   transition: opacity 4s;
