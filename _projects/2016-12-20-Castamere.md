@@ -1,22 +1,30 @@
 ---
-layout: project
-title: The Rains Of Castamere
+layout: video-project
+title: "The Rains Of Castamere"
 miniatures:
   - title: "Mousse"
-    url: /images/projects/JourDePluie/1_min.jpg
+    url: /images/projects/Castamere/1_min.jpg
+video:
+    preview:
+      width: ""
+      url: ""
+    title: "The Rains of Castamere"
+    source:
+      youtubeId: "1mDUAOLI8AU"
+      url: "https://www.youtube.com/watch?v=1mDUAOLI8AU"
+      type: "video/mp4"
 images:
-  - title: "Mousse"
-    url: /images/projects/JourDePluie/1.jpg
-  - title: "Ligne"
-    url: /images/projects/JourDePluie/2.jpg
+  - title: "Mousse1"
+    url: /images/projects/Castamere/1.jpg
+  - title: "Lignes"
+    url: /images/projects/Castamere/2.jpg
   - title: "Mousse2"
-    url: /images/projects/JourDePluie/3.jpg
+    url: /images/projects/Castamere/3.jpg
   - title: "Tronc"
-    url: /images/projects/JourDePluie/4.jpg
+    url: /images/projects/Castamere/4.jpg
   - title: "Feuille"
-    url: /images/projects/JourDePluie/5.jpg
+    url: /images/projects/Castamere/5.jpg
 project_date: Décembre 2016
-type: Vidéo
 ---
 Projet personnel entièrement réalisé à l'iPhone.
 
