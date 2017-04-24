@@ -3,7 +3,7 @@ body {
   margin: 0;
   width: 100vw;
   background-color: white;
-  font-family: 'Inconsolata', monospace;;
+  font-family: 'Quicksand', sans-serif;
 }
 .wrapper {
   width: 100%;
@@ -69,7 +69,7 @@ body {
 }
 .projet-description .description p {
   text-align: justify;
-  font-family: 'Inconsolata', monospace;;
+  font-family: 'Quicksand', sans-serif;
 }
 
 #photos {
