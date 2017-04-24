@@ -3,7 +3,7 @@ body {
   margin: 0;
   width: 100vw;
   background-color: white;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Muli', sans-serif;
 }
 .wrapper {
   width: 100%;
@@ -69,7 +69,7 @@ body {
 }
 .projet-description .description p {
   text-align: justify;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Muli', sans-serif;
 }
 
 #photos {
