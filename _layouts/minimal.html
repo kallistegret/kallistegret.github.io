@@ -25,10 +25,46 @@ layout: nil
     <meta name="theme-color" content="#ffffff">
     <link href="https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Bangers|Josefin+Sans|Julius+Sans+One|Londrina+Shadow|Poiret+One" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <style type="text/css" media="screen">
+#overlay{
+  position:fixed;
+  z-index:99999;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+  background:rgba(0,0,0,0.9);
+  transition: 1s 0.4s;
+}
+#progress{
+  height:1px;
+  background:#fff;
+  position:absolute;
+  width:0;
+  top:50%;
+}
+#progstat{
+  font-size:0.7em;
+  letter-spacing: 3px;
+  position:absolute;
+  top:50%;
+  margin-top:-40px;
+  width:100%;
+  text-align:center;
+  color:#fff;
+}
+    </style>
   </head>
 
   <body>
-    {{content}}
+    <div id="overlay">
+      <div id="progstat"></div>
+      <div id="progress">
+      </div>
+    </div>
+    <div id="container">
+      {{content}}
+    </div>
+    <script type="text/javascript" src="../lib/script.js"></script>
   </body>
 </html>
