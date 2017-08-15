@@ -31,5 +31,6 @@ project_date: 4 Août 2014
 type: Photographie
 ---
 Photoshoot réalisé un jour de pluie, en été.
+Plouf.
 
 Modèle: Noémie O.
