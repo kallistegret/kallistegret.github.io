@@ -48,7 +48,7 @@
 }
 
 .item:hover .item-mask, .item:active .item-mask {
-  background-color: #222;
+  background-color: black;
   opacity: 0.5;
 }
 
@@ -61,7 +61,7 @@
 }
 
 .item .item-infos .item--title::before {
-  font-family: 'Julius Sans One', cursive;
+  font-family: 'Montserrat', sans-serif;
   content: ";";
   font-size: 0;
   position: absolute;
@@ -75,7 +75,7 @@
 .item:hover .item-infos .item--title::before, .item:active .item-infos .item--title::before {
   width: 60%;
   left: 20%;
-  transition: all 2s;
+  transition: all 1s;
 }
 
 .item .item-infos .item--date {
@@ -93,6 +93,6 @@
 
 .item:hover .item-infos .item--date, .item:active .item-infos .item--date {
   opacity: 1;
-  transition: opacity 4s;
+  transition: opacity 2s;
   transition-delay: 0s;
 }

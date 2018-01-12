@@ -5,7 +5,7 @@
   bottom: 0;
   height: 40px;
   width: 100vw;
-  background-color: pink;
+  background-color: black;
 }
 
 #footer #text {
@@ -47,4 +47,3 @@
     width: calc(100vw - 100px);
   }
 }
-
