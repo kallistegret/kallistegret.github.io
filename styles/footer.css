@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
 #footer {
   position: absolute;
@@ -16,7 +16,8 @@
   position: absolute;
   bottom: 3px;
   text-align: center;
-  font-family: 'Annie Use Your Telescope', cursive;
+  font-family: 'Amatic SC', cursive;
+  
 }
 
 #footer a {
