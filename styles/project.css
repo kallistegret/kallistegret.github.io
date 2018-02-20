@@ -42,19 +42,19 @@ body {
 .projet-description .projet-titre {
   font-family: 'Amatic SC', cursive;
 
-  font-size: 30px;
+  font-size: 70px;
 }
 .projet-description .projet-titre::first-letter {
-  font-size: 130%;
+  font-size: 100%;
 }
 .projet-description .date {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 20px;
+  font-size: 10px;
 }
 .projet-description .type-projet {
   position: relative;
   font-family: 'Roboto Condensed', sans-serif;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .projet-description .type-projet::after {
   height: 2px;
