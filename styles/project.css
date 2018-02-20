@@ -53,7 +53,7 @@ body {
 .projet-description .type-projet {
   position: relative;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   margin-bottom: 20px;
 }
 .projet-description .type-projet::after {
@@ -68,11 +68,12 @@ body {
 }
 .projet-description .description {
   margin-top: 50px;
+  margin-right: 50px;
 }
 .projet-description .description p {
   text-align: justify;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 #photos {
