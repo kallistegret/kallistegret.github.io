@@ -3,7 +3,8 @@ body {
   margin: 0;
   width: 100vw;
   background-color: white;
-  font-family: 'Annie Use Your Telescope', cursive;
+  font-family: 'Amatic SC', cursive;
+  
 }
 .wrapper {
   width: 100%;
@@ -39,7 +40,8 @@ body {
 }
 
 .projet-description .projet-titre {
-  font-family: 'Annie Use Your Telescope', cursive;
+  font-family: 'Amatic SC', cursive;
+
   font-size: 30px;
 }
 .projet-description .projet-titre::first-letter {
