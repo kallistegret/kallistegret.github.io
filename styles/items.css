@@ -61,7 +61,7 @@
 }
 
 .item .item-infos .item--title::before {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Old Standard TT', serif;
   content: ";";
   font-size: 0;
   position: absolute;
