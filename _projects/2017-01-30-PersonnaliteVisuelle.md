@@ -16,6 +16,7 @@ video:
 project_date: Janvier 2017
 ---
 Réalisation d'une identité visuelle personnelle 
+
 Une vidéo à mon image, composée d'extraits de différentes vidéos qui sont des publicités,
 des génériques et extraits de séries, des clips musicaux, des vidéos de youtubeurs...
 Tous ces extraits me représentent pour de nombreuses raisons, la musique y compris. 
