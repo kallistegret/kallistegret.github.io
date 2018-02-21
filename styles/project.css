@@ -41,7 +41,7 @@ body {
 
 .projet-description .projet-titre {
   font-family: 'Amatic SC', cursive;
-  font-size: 40px;
+  font-size: 25px;
 }
 .projet-description .projet-titre::first-letter {
   font-size: 100%;
@@ -68,7 +68,7 @@ body {
 }
 .projet-description .description {
   margin-top: 50px;
-  margin-right: 50px;
+  margin-right: 150px;
 }
 .projet-description .description p {
   text-align: justify;
